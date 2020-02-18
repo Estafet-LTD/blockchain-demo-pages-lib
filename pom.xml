@@ -54,9 +54,9 @@
 			<version>2.52.0</version>
 		</dependency>
 		<dependency>
-			<groupId>com.estafet.microservices.scrum</groupId>
-			<artifactId>microservices-scrum-commons-lib</artifactId>
-			<version>1.0.6</version>
+			<groupId>com.estafet.openshift.boost</groupId>
+			<artifactId>estafet-openshift-boost-commons-lib</artifactId>
+			<version>0.0.3</version>
 		</dependency>		
 	</dependencies>
 

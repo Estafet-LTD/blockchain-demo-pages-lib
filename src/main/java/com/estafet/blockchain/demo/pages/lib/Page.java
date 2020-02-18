@@ -19,7 +19,7 @@ import org.openqa.selenium.htmlunit.HtmlUnitDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.support.PageFactory;
 
-import com.estafet.microservices.scrum.lib.commons.properties.PropertyUtils;
+import com.estafet.openshift.boost.commons.lib.properties.PropertyUtils;
 
 public abstract class Page {
 
