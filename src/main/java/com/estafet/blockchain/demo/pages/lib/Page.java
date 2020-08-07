@@ -1,6 +1,5 @@
 package com.estafet.blockchain.demo.pages.lib;
 
-
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 import java.net.MalformedURLException;
@@ -19,7 +18,7 @@ import org.openqa.selenium.htmlunit.HtmlUnitDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.support.PageFactory;
 
-import com.estafet.openshift.boost.commons.lib.properties.PropertyUtils;
+import com.estafet.boostcd.commons.properties.PropertyUtils;
 
 public abstract class Page {
 
